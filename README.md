@@ -37,7 +37,6 @@ pnpm preview
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [Preact Documentation](https://preactjs.com/guide/v10/getting-started)
 - [pnpm Documentation](https://pnpm.io/motivation)
-```
 
 ### Key Points:
 - **Project Setup:** Explains how to install dependencies using `pnpm`.
