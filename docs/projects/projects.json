@@ -1,0 +1,23 @@
+[
+  {
+    "image": "/images/projects/api/project1.png",
+    "name": "KazumaDevHub APIs",
+    "description": "Here you will find all the information you need to get started with our AP.",
+    "link": "https://kazumadevhub.vercel.app/swagger",
+    "tags": ["api"]
+  },
+  {
+    "image": "/images/projects/web/project1.jpg",
+    "name": "QRIS Editor",
+    "description": "Web tool for QRIS Modifier.",
+    "link": "https://tegarsbl.github.io/QRIS-Editor",
+    "tags": ["web"]
+  },
+  {
+    "image": "/images/projects/api/project1.png",
+    "name": "Text Cases",
+    "description": "Web tool for convert text to various formats as needed.",
+    "link": "https://tegarsbl.github.io/textcases/",
+    "tags": ["web"]
+  }
+]
